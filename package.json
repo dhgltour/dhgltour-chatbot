@@ -1,0 +1,9 @@
+{
+  "name": "dhgltour-chatbot",
+  "version": "1.0.0",
+  "description": "DAEHAN GLOBALTOUR Kakao Chatbot - Claude AI integration",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "type": "module"
+}
